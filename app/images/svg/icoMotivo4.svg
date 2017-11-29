@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="66px" height="63px" viewBox="0 0 66 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32.3125 0 33 0 66 53 0 53"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-22" transform="translate(-935.000000, -883.000000)">
+            <g id="Group-57" transform="translate(278.000000, 706.000000)">
+                <g id="Group-56" transform="translate(0.000000, 148.000000)">
+                    <g id="Group-33" transform="translate(600.000000, 0.000000)">
+                        <g id="Group-32" transform="translate(30.000000, 0.000000)">
+                            <g id="Group-28" transform="translate(27.000000, 29.000000)">
+                                <g id="Rectangle">
+                                    <use fill="#F4F8F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    <path stroke="#5B95AA" stroke-width="2" d="M32.6615935,1.34843698 L1.78086462,52 L64.1993591,52 L32.6615935,1.34843698 Z M32.3125,0 L33.1663289,0.520553717 L32.6615935,1.34843698 L32.1511031,0.528558453 L33,0 L33,1 L32.3125,1 L32.3125,0 Z"></path>
+                                </g>
+                                <rect id="Rectangle-13" fill="#F4F8F9" x="18" y="45" width="15" height="13"></rect>
+                                <rect id="Rectangle-13" fill="#F4F8F9" transform="translate(51.776502, 31.434373) rotate(-31.000000) translate(-51.776502, -31.434373) " x="44.2765022" y="24.934373" width="15" height="13"></rect>
+                                <rect id="Rectangle-13" fill="#F4F8F9" transform="translate(19.776502, 21.434373) scale(-1, 1) rotate(-31.000000) translate(-19.776502, -21.434373) " x="12.2765022" y="14.934373" width="15" height="13"></rect>
+                                <polygon id="Rectangle-2" fill="#5B95AA" points="52 19 52 31 39 31"></polygon>
+                                <polygon id="Rectangle-2" fill="#5B95AA" points="39.2675745 62.139707 30 53.0698535 39.2675745 44"></polygon>
+                                <polygon id="Rectangle-2" fill="#5B95AA" points="6 26.6668229 18.8199248 24 21.5448839 36.5464155"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
